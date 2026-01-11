@@ -1,0 +1,18 @@
+[
+  {
+    "frame": 0,
+    "timestamp": "2026-01-11T03:10:50.328711",
+    "num_faces": 1,
+    "detections": [
+      {
+        "bbox": {
+          "x": 478,
+          "y": 240,
+          "width": 147,
+          "height": 147
+        },
+        "confidence": 0.7609
+      }
+    ]
+  }
+]
